@@ -7,7 +7,7 @@
 
 ### Assalamu aleikum, welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="welcome">
 
-My name is nick name is pavel_birdy. I studied Physics(dropped out actually 😂) and I am a self taught developer. I am a flutter developer since flutter beta. I love nice UI design and cool UI animation. This is the reason I love flutter so much it let me build any UI animation. I frequently do UI design challenge mainly from dribbble. I use BloC architecture.
+My name is nick name is pavel_birdy. I studied Physics (dropped out actually 😂) and I am a self taught developer. I am a flutter developer since flutter beta. I love nice UI design and cool UI animation. This is the reason I love flutter so much it let me build any UI animation. I frequently do UI design challenge mainly from dribbble. I use BloC architecture.
 
 - 🧑‍💻 I’m currently working on open-source dart library
 - 📚 I’m currently learning Node.js
@@ -17,7 +17,7 @@ My name is nick name is pavel_birdy. I studied Physics(dropped out actually 😂
 [![Dart Badge](https://img.shields.io/badge/-Dart-04599C?style=for-the-badge&labelColor=2BB7F6&logo=dart&logoColor=04599C)](https://dart.dev) [![Flutter Badge](https://img.shields.io/badge/-Flutter-13B9FD?style=for-the-badge&labelColor=065A9D&logo=flutter&logoColor=13B9FD)](https://flutter.dev) [![BLoC Badge](https://img.shields.io/badge/-BLoC-08D2B9?style=for-the-badge&labelColor=black&logo=bloc&logoColor=13B9FD)](https://bloclibrary.dev)
 
 
-#### Dart libraries
+#### Flutter Packages
 [![Sliding Clipped Nav Bar](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=sliding_clipped_nav_bar)](https://github.com/watery-desert/sliding_clipped_nav_bar)
 [![Water Drop Nav Bar](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=water_drop_nav_bar)](https://github.com/watery-desert/water_drop_nav_bar)
 [![Swipeable Tile](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=swipeable_tile)](https://github.com/watery-desert/swipeable_tile)
