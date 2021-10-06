@@ -20,7 +20,6 @@
 My name is nick name is pavel_birdy. I studied Physics (dropped out actually 😂) and I am a self taught developer. I am a flutter developer since flutter beta. I love nice UI design and cool UI animation. This is the reason I love flutter so much it let me build any UI animation. I frequently do UI design challenge mainly from dribbble. I use BloC architecture.
 
 - 🧑‍💻 I’m currently working on open-source dart library
-- 📚 I’m currently learning Node.js
 - 🏇 You can reach out me on instagram or [email me](mailto:waterydesert.developer@gmail.com)
 - 😊 Feel free to talk with me I am responsive and talkative
 
