@@ -30,6 +30,8 @@ My name is nick name is pavel_birdy. I studied Physics (dropped out actually ðŸ˜
 [![Sliding Clipped Nav Bar](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=sliding_clipped_nav_bar)](https://github.com/watery-desert/sliding_clipped_nav_bar)
 [![Water Drop Nav Bar](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=water_drop_nav_bar)](https://github.com/watery-desert/water_drop_nav_bar)
 [![Swipeable Tile](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=swipeable_tile)](https://github.com/watery-desert/swipeable_tile)
+[![Loading_animation_widget](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=loading_animation_widget)](https://github.com/watery-desert/loading_animation_widget)
+
 
 #### UI design challenge
 [![Movie 2 Dimest](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=movie_2_dimest)](https://github.com/watery-desert/movie_2_dimest)
