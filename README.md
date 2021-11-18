@@ -1,27 +1,26 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/cover.png" alt="Watery Desert" />
+    <img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/cover.png" alt="Watery Desert" />
 </p>
 
-<a href="https://instagram.com/watery_desert">
-<img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/instagram.png" height="32" alt="instagram: watery_desert"></a>
+<a href="https://instagram.com/watery_desert"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/instagram.png" height="32" alt="instagram: watery_desert" /></a>
 
-<a href="https://twitter.com/watery_desert">
-<img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/twitter.png" height="32" alt="twitter: watery_desert"></a>
+<a href="https://twitter.com/watery_desert"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/twitter.png" height="32" alt="twitter: watery_desert" /></a>
 
-<a href="https://dribbble.com/watery_desert">
-<img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/dribbble.png" height="32" alt="dribbble: watery_desert"></a>
+<a href="https://dribbble.com/watery_desert"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/dribbble.png" height="32" alt="dribbble: watery_desert" /></a>
 
-<a href="https://www.youtube.com/channel/UCMr8V70B4402CNOJEYQ30Qg">
-<img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/youtube.png" height="32" alt="youtube: watery_desert"></a>
+<a href="https://www.youtube.com/channel/UCMr8V70B4402CNOJEYQ30Qg"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/youtube.png" height="32" alt="youtube: watery_desert" /></a>
+
 
 
 ### Assalamu aleikum, welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="welcome">
 
-My name is nick name is pavel_birdy. I studied Physics (dropped out actually 😂) and I am a self taught developer. I am a flutter developer since flutter beta. I love nice UI design and cool UI animation. This is the reason I love flutter so much it let me build any UI animation. I frequently do UI design challenge mainly from dribbble. I use BloC architecture.
+My name is nick name is pavel_birdy. I studied Physics (dropped out actually) and I am a self taught developer. I am a flutter developer since flutter beta. I love flutter so much because it let me build beautiful UI animation. I frequently do UI design challenge. I use BloC architecture.
 
-- 🧑‍💻 I’m currently working on open-source dart library
+- 🎨 I am in love with beautiful UI animation.
+- 🧑‍💻 I’m making some cool flutter packages.
+- 🤷‍♂️ I don't use linkedin so ask me directly.
 - 🏇 You can reach out me on instagram or [email me](mailto:waterydesert.developer@gmail.com)
-- 😊 Feel free to talk with me I am responsive and talkative
+- 😊 I am responsive and talkative.
 
 [![Dart Badge](https://img.shields.io/badge/-Dart-04599C?style=for-the-badge&labelColor=2BB7F6&logo=dart&logoColor=04599C)](https://dart.dev) [![Flutter Badge](https://img.shields.io/badge/-Flutter-13B9FD?style=for-the-badge&labelColor=065A9D&logo=flutter&logoColor=13B9FD)](https://flutter.dev) [![BLoC Badge](https://img.shields.io/badge/-BLoC-08D2B9?style=for-the-badge&labelColor=black&logo=bloc&logoColor=13B9FD)](https://bloclibrary.dev)
 
@@ -48,19 +47,3 @@ If you like my work please consider supporting me on [Patreon](https://www.patre
 
 #### Most Used Languages
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watery-desert)](https://github.com/watery-desert)
-
-
-<!--
-**watery-desert/watery-desert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
