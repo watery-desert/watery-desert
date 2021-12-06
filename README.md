@@ -1,7 +1,6 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/cover.png" alt="Watery Desert" />
+   <img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/cover.png" alt="Watery Desert" />
 </p>
-
 <a href="https://instagram.com/watery_desert"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/instagram.png" height="32" alt="instagram: watery_desert" /></a>
 <a href="https://twitter.com/watery_desert"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/twitter.png" height="32" alt="twitter: watery_desert" /></a>
 <a href="https://dribbble.com/watery_desert"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/dribbble.png" height="32" alt="dribbble: watery_desert" /></a>
