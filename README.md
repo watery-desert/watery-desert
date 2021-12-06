@@ -33,13 +33,13 @@ I started to learn swift from 21 Nov 2020.
 
 
 #### UI design challenge
-<!-- [![Movie 2 Dimest](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=movie_2_dimest)](https://github.com/watery-desert/movie_2_dimest)
+[![Movie 2 Dimest](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=movie_2_dimest)](https://github.com/watery-desert/movie_2_dimest)
 [![Food Recipes Afterglow](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=food_recipes_afterglow)](https://github.com/watery-desert/food_recipes_afterglow)
 [![Search Animation Shot Ronas IT](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=search_animation_shot_ronas_it)](https://github.com/watery-desert/search_animation_shot_ronas_it)
 [![Upload File Mauricio Bucardo](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=upload_file_mauricio_bucardo)](https://github.com/watery-desert/upload_file_mauricio_bucardo)
-[![Car Rental Ronas IT](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=car_rental_ronas_it)](https://github.com/watery-desert/car_rental_ronas_it) -->
+[![Car Rental Ronas IT](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=car_rental_ronas_it)](https://github.com/watery-desert/car_rental_ronas_it)
 
-<table>
+<!-- <table>
    <tr>
       <td align="center">
          <a href="https://github.com/watery-desert/movie_2_dimest">
@@ -67,13 +67,13 @@ I started to learn swift from 21 Nov 2020.
          <img src="https://raw.githubusercontent.com/watery-desert/assets/main/car_rental_ronas_it/screen_recording.gif"  width="200"/>
          </a>
    </td>
-<!--    <td align="center">
+   <td align="center">
          <a href="https://github.com/watery-desert/car_rental_ronas_it">
          <img src="https://raw.githubusercontent.com/watery-desert/assets/main/car_rental_ronas_it/screen_recording.gif"  width="200"/>
          </a>
-   </td> -->
+   </td>
    </tr>
-</table>
+</table> -->
 
 
 #### Support me
