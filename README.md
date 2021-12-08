@@ -27,15 +27,15 @@ I started to learn swift from 21 Nov 2020.
 If you like my work please consider supporting me on [Patreon](https://www.patreon.com/watery_desert)
 
 ## Flutter
-#### Packages
+#### 1️⃣ Packages
 [![sliding_clipped_nav_bar](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=sliding_clipped_nav_bar)](https://github.com/watery-desert/sliding_clipped_nav_bar)
 [![water_drop_nav_bar](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=water_drop_nav_bar)](https://github.com/watery-desert/water_drop_nav_bar)
 [![swipeable_tile](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=swipeable_tile)](https://github.com/watery-desert/swipeable_tile)
 [![loading_animation_widget](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=loading_animation_widget)](https://github.com/watery-desert/loading_animation_widget)
 
-#### [UI design & animation challenge](https://github.com/watery-desert/flutter-UI-challenge)
+### 2️⃣ [UI design & animation challenge](https://github.com/watery-desert/flutter-UI-challenge)
 
-#### Complete app
+#### 3️⃣ Complete app
 [![Flower selling app](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=flower_selling_app)](https://github.com/watery-desert/flower_selling_app)
 
 
