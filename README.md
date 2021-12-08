@@ -23,8 +23,8 @@ I started to learn swift from 21 Nov 2020.
 [![Swift](https://img.shields.io/badge/swiftUI-F54A2A?style=for-the-badge&logo=swift&logoColor=white)]() [![Firebase](https://img.shields.io/badge/-Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCB2B)](https://firebase.google.com/)
 <!-- [![Firebase](https://img.shields.io/badge/-Firebase-1B73E8?style=for-the-badge&labelColor=1B73E8&logo=firebase&logoColor=FFCB2B)](https://firebase.google.com/) -->
 
-#### Support me
-If you like my work please consider supporting me on [Patreon](https://www.patreon.com/watery_desert)
+<!-- #### Support me
+If you like my work please consider supporting me on [Patreon](https://www.patreon.com/watery_desert) -->
 
 ## Flutter
 
