@@ -16,7 +16,6 @@ My name is Ahmed. I studied Physics (dropped out actually) and I am a self taugh
 - 🧑‍💻 I’m learning swiftUI.
 - 🤷‍♂️ I don't have linkedin so ask me directly.
 - 🏇 You can reach out me anywhere like twitter, instagram or [email me](mailto:waterydesert.developer@gmail.com)
-- 😊 I am responsive and talkative.
 
 [![Flutter](https://img.shields.io/badge/-Flutter-13B9FD?style=for-the-badge&labelColor=065A9D&logo=flutter&logoColor=13B9FD)](https://flutter.dev)
 [![Swift](https://img.shields.io/badge/swiftUI-F54A2A?style=for-the-badge&logo=swift&logoColor=white)]() [![Firebase](https://img.shields.io/badge/-Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCB2B)](https://firebase.google.com/)
