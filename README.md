@@ -3,7 +3,7 @@
 </p>
 <a href="https://instagram.com/watery_desert"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/instagram.png" height="32" alt="instagram: watery_desert" /></a>
 <a href="https://twitter.com/watery_desert"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/twitter.png" height="32" alt="twitter: watery_desert" /></a>
-<a href="https://dribbble.com/watery_desert"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/dribbble.png" height="32" alt="dribbble: watery_desert" /></a>
+<!-- <a href="https://dribbble.com/watery_desert"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/dribbble.png" height="32" alt="dribbble: watery_desert" /></a> -->
 <a href="https://www.youtube.com/channel/UCMr8V70B4402CNOJEYQ30Qg"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/youtube.png" height="32" alt="youtube: watery_desert" /></a>
 
 
