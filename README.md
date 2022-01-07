@@ -26,7 +26,7 @@ If you like my work please consider supporting me on [Patreon](https://www.patre
 
 ## Flutter
 
-#### 1️⃣  [UI design-animation challenge and compleate apps](https://github.com/watery-desert/flutter-UI-challenge)
+### 1️⃣  [Flutter apps](https://github.com/watery-desert/flutter-UI-challenge)
 
 #### 2️⃣  Packages
 [![sliding_clipped_nav_bar](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=sliding_clipped_nav_bar)](https://github.com/watery-desert/sliding_clipped_nav_bar)
