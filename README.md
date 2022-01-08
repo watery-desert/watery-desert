@@ -23,7 +23,12 @@ My name is Ahmed. I studied Physics (dropped out actually) and I am a self taugh
 <!-- #### Support me
 If you like my work please consider supporting me on [Patreon](https://www.patreon.com/watery_desert) -->
 
-## SwiftUI
+## swiftUI
+
+<!-- <p align="center">
+   <img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/swiftui_banner.png" alt="flutter banner" />
+</p> -->
+
 [![ToDoAppCoreData](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=ToDoAppCoreData)](https://github.com/watery-desert/ToDoAppCoreData)
 
 <p align="center">
