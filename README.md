@@ -34,12 +34,9 @@ If you like my work please consider supporting me on [Patreon](https://www.patre
 [![loading_animation_widget](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=loading_animation_widget)](https://github.com/watery-desert/loading_animation_widget)
 
 
-<!-- #### 3️⃣ Complete app
-[![Flower selling app](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=flower_selling_app)](https://github.com/watery-desert/flower_selling_app) -->
-
 
 ## SwiftUI
-[![ToDoAppCoreData](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=ToDoAppCoreData)](https://github.com/watery-desert/ToDoAppCoreData)
+<!-- [![ToDoAppCoreData](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=ToDoAppCoreData)](https://github.com/watery-desert/ToDoAppCoreData) -->
 
 #### GitHub Stats
 [![Watery Desert GitHub stats](https://github-readme-stats.vercel.app/api?username=watery-desert)](https://github.com/watery-desert)
