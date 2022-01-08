@@ -29,12 +29,12 @@ If you like my work please consider supporting me on [Patreon](https://www.patre
 ## Flutter
 
 ### 1️⃣  [Flutter apps](https://github.com/watery-desert/flutter-UI-challenge)
-<!-- [![Movie 2 Dimest](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=movie_2_dimest)](https://github.com/watery-desert/movie_2_dimest)
+[![Movie 2 Dimest](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=movie_2_dimest)](https://github.com/watery-desert/movie_2_dimest)
 [![Food Recipes Afterglow](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=food_recipes_afterglow)](https://github.com/watery-desert/food_recipes_afterglow)
 [![Search Animation Shot Ronas IT](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=search_animation_shot_ronas_it)](https://github.com/watery-desert/search_animation_shot_ronas_it)
 [![Upload File Mauricio Bucardo](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=upload_file_mauricio_bucardo)](https://github.com/watery-desert/upload_file_mauricio_bucardo)
 [![Car Rental Ronas IT](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=car_rental_ronas_it)](https://github.com/watery-desert/car_rental_ronas_it)
-[![Flower selling app](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=flower_selling_app)](https://github.com/watery-desert/flower_selling_app) -->
+[![Flower selling app](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=flower_selling_app)](https://github.com/watery-desert/flower_selling_app)
 
 
 ### 2️⃣  Packages
