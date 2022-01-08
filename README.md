@@ -36,7 +36,7 @@ If you like my work please consider supporting me on [Patreon](https://www.patre
 
 
 ## SwiftUI
-<!-- [![ToDoAppCoreData](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=ToDoAppCoreData)](https://github.com/watery-desert/ToDoAppCoreData) -->
+[![ToDoAppCoreData](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=ToDoAppCoreData)](https://github.com/watery-desert/ToDoAppCoreData)
 
 #### GitHub Stats
 [![Watery Desert GitHub stats](https://github-readme-stats.vercel.app/api?username=watery-desert)](https://github.com/watery-desert)
