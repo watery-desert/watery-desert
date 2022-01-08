@@ -26,7 +26,7 @@ If you like my work please consider supporting me on [Patreon](https://www.patre
 ## SwiftUI
 [![ToDoAppCoreData](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=ToDoAppCoreData)](https://github.com/watery-desert/ToDoAppCoreData)
 
-## Flutter
+##
 <p align="center">
    <img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/flutter_banner.png" alt="flutter banner" />
 </p>
