@@ -27,7 +27,7 @@ If you like my work please consider supporting me on [Patreon](https://www.patre
 [![ToDoAppCoreData](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=ToDoAppCoreData)](https://github.com/watery-desert/ToDoAppCoreData)
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/flutter_banner2.png" alt="flutter banner" />
+   <img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/flutter_banner.png" alt="flutter banner" />
 </p>
 
 ### 1️⃣  [Flutter apps](https://github.com/watery-desert/flutter-UI-challenge)
