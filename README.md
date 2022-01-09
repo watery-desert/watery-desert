@@ -10,7 +10,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/hireme2.png" height="200" />   
 
-<p><align="left"> My name is Ahmed. I studied Physics (dropped out actually) and I am a self-taught developer. I started to learn when flutter was beta. I use flutter bloc and follow their feature-driven app architecture. I started to learn SwiftUI on 21 Nov 2021. I always prefer to write clean maintainable code, I would document my code if I get time. I don't mind writing tests but I am not good at this, right now. I have pretty good UI design taste because I took some UI design courses, however, I don't consider myself an expert. </p>
+<p><align="left"> My name is Ahmed. I studied Physics (dropped out actually) and I am a self-taught developer. I started to learn when flutter was beta. I use flutter bloc and follow their feature-driven app architecture. I started to learn SwiftUI on 21 Nov 2021. I always prefer to write clean maintainable code, I would document my code if I get time. I don't mind writing tests but I am not good at this, right now. I mostly prefer to do UI design/animation challenges. I have pretty good UI design taste because I took some UI design courses, however, I don't consider myself an expert. </p>
 
 - 💙 Flutter: Q3 2018 - today.
 - 🍎 SwiftUI: Nov 21 2021 - today.
