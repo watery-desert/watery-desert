@@ -8,10 +8,12 @@
 
 ### Assalamu aleikum, welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="welcome">
 
-<img align="right" src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/hireme.png" height="200" />   
+<img align="right" src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/hireme2.png" height="200" />   
 
-<p><align="left"> My name is Ahmed. I studied Physics (dropped out actually) and I am a self taught developer. I am a flutter developer since flutter beta. I am an iOS developer (swiftUI) from 21 Nov 2020.</p>
+<p><align="left"> My name is Ahmed. I studied Physics (dropped out actually) and I am a self-taught developer. I started to learn when flutter was beta. I use flutter bloc and follow their feature-driven app architecture. I started to learn SwiftUI on 21 Nov 2021. I always prefer to write clean maintainable code, I would document my code if I get time. I don't mind writing tests but I am not good at this, right now. I have pretty good UI design taste because I took some UI design courses, however, I don't consider myself an expert. </p>
 
+- 💙 Flutter: Q3 2018 - today.
+- 🍎 SwiftUI: Nov 21 2021 - today.
 - 🎨 I love beautiful UI design & animation.
 - 🤷‍♂️ I don't have linkedin so ask me directly.
 - 🏇 You can reach out me anywhere like twitter, instagram or [email me](mailto:waterydesert.developer@gmail.com)
