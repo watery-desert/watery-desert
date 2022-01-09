@@ -6,19 +6,21 @@
 <!-- <a href="https://dribbble.com/watery_desert"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/dribbble.png" height="32" alt="dribbble: watery_desert" /></a> -->
 <a href="https://www.youtube.com/channel/UCMr8V70B4402CNOJEYQ30Qg"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/youtube.png" height="32" alt="youtube: watery_desert" /></a>
 
-
-
 ### Assalamu aleikum, welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="welcome">
 
-My name is Ahmed. I studied Physics (dropped out actually) and I am a self taught developer. I am a flutter developer since flutter beta. I am an iOS developer (swiftUI) from 21 Nov 2020.
+<img align="right" src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/hireme.png" height="300" />   
+
+<p><align="left"> My name is Ahmed. I studied Physics (dropped out actually) and I am a self taught developer. I am a flutter developer since flutter beta. I am an iOS developer (swiftUI) from 21 Nov 2020.</p>
 
 - 🎨 I love beautiful UI design & animation.
 - 🤷‍♂️ I don't have linkedin so ask me directly.
 - 🏇 You can reach out me anywhere like twitter, instagram or [email me](mailto:waterydesert.developer@gmail.com)
 
-
+</br></br>
+   
 <!-- #### Support me
-If you like my work please consider supporting me on [Patreon](https://www.patreon.com/watery_desert) -->
+If you like my work please consider supporting me on [Patreon](https://www.patreon.com/watery_desert) -->![image](https://user-images.githubusercontent.com/65174422/148669389-c82a3e42-9e97-47d0-9485-da5914b7d6a2.png)
+
 
 
 
