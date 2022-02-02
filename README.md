@@ -27,6 +27,7 @@ My name is Ahmed. I studied Physics (dropped out actually) and I am a self-taugh
 </p>
 
 [![ToDoAppCoreData](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=ToDoAppCoreData)](https://github.com/watery-desert/ToDoAppCoreData)
+[![UnsplashPhotosApp](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=UnsplashPhotosApp)](https://github.com/watery-desert/UnsplashPhotosApp)
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/flutter_banner.png" alt="flutter banner" />
