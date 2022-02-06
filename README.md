@@ -15,7 +15,6 @@ My name is Ahmed. I studied Physics (dropped out actually) and I am a self-taugh
 - 💙 Flutter: Q3 2018 - today.
 - 🍎 SwiftUI: Nov 21 2021 - today.
 - 🎨 I love beautiful UI design & animation.
-- 🤷‍♂️ I don't have linkedin so ask me directly.
 - 🏇 You can contact me via [email](mailto:waterydesert.developer@gmail.com)
  
 
