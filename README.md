@@ -10,7 +10,7 @@
 
 ### Assalamu aleikum, welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="welcome">
 
-My name is Ahmed. I studied Physics (dropped out actually) and I am a self-taught developer. I started to learn when flutter was beta. I use flutter bloc and follow their feature-driven app architecture. I started to learn SwiftUI on 21 Nov 2021. I always prefer to write clean maintainable code, I would document my code if I get time. I don't mind writing tests but I am not good at this, right now. I mostly do UI design/animation challenges. I have pretty good UI design taste. however, I don't consider myself an expert.
+My name is Ahmed. I studied Physics (dropped out actually) and I am a self-taught developer. I was a flutter developer since beta. I started to learn SwiftUI on 21 Nov 2021. I always prefer to write clean maintainable code, I would document my code if I get time. I don't mind writing tests but I am not good at this, right now. I mostly do UI design/animation challenges. I have pretty good UI design taste. however, I don't consider myself an expert.
 
 - 💙 Flutter: Q3 2018 - today.
 - 🍎 SwiftUI: Nov 21 2021 - today.
