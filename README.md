@@ -18,8 +18,6 @@ My name is Ahmed. I studied Physics (dropped out actually) and I am a self-taugh
 - 🏇 You can contact me via [email](mailto:waterydesert.developer@gmail.com)
  
 
-<a href="https://www.buymeacoffee.com/watery_desert"><img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/bmc-button.png" height="56"></a>
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R8AGPKQ)
 
 <p align="center">
