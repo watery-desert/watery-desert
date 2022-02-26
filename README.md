@@ -18,7 +18,7 @@ My name is Ahmed. I studied Physics (dropped out actually) and I am a self-taugh
 - 🏇 You can contact me via [email](mailto:waterydesert.developer@gmail.com)
  
 
-<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R8AGPKQ) -->
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R8AGPKQ)
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/swiftui_banner.png" alt="flutter banner" />
