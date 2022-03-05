@@ -13,8 +13,8 @@
 
 My name is Ahmed. I studied Physics (dropped out actually) and I am a self-taught developer. I was a flutter developer since beta. I started to learn SwiftUI on 21 Nov 2021. I always prefer to write clean maintainable code, I would document my code if I get time. I don't mind writing tests but I am not good at this, right now. I mostly do UI design/animation challenges. I have pretty good UI design taste. however, I don't consider myself an expert.
 
-- 💙 Flutter: Q3 2018 - today.
-- 🍎 SwiftUI: Nov 21 2021 - today.
+- 💻 Flutter: Q3 2018 - today. 
+- 💻 SwiftUI: Nov 21 2021 - today.
 - 🎨 I love beautiful UI design & animation.
 - 🏇 You can contact me via [email](mailto:waterydesert.developer@gmail.com)
  
