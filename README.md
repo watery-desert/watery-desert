@@ -18,7 +18,7 @@ My name is Ahmed. I studied Physics (dropped out actually) and I am a self-taugh
 - 🎨 I love beautiful UI design & animation.
 - 🏇 You can contact me via [email](mailto:waterydesert.developer@gmail.com)
  
-
+<a href="https://www.buymeacoffee.com/watery_desert"><img src="https://img.buymeacoffee.com/button-api/?text=Support me &emoji=💛&slug=watery_desert&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/swiftui_banner.png" alt="flutter banner" />
