@@ -17,7 +17,7 @@ My name is Ahmed. I studied Physics (dropped out actually) and I am a self-taugh
 - SwiftUI: Nov 21 2021 - today.
 - Contact me for bussiness or work via [email](mailto:waterydesert.developer@gmail.com)
  
-<!-- <a href="https://www.buymeacoffee.com/watery_desert"><img src="https://img.buymeacoffee.com/button-api/?text=Support me &emoji=💛&slug=watery_desert&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a> -->
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R8AGPKQ)
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/swiftui_banner.png" alt="flutter banner" />
