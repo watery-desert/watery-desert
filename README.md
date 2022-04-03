@@ -2,12 +2,11 @@
    <img src="https://raw.githubusercontent.com/watery-desert/assets/main/watery_desert/cover.png" alt="Watery Desert" />
 </p>
 
-<!-- <a href="https://instagram.com/watery_desert"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/instagram.png" height="32" alt="instagram: watery_desert" /></a>
-<a href="https://twitter.com/watery_desert"> <img src="https://raw.githubusercontent.com/watery-desert/assets/main/social_logo/twitter.png" height="32" alt="twitter: watery_desert" /></a> -->
-
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/watery_desert)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/watery_desert)](https://twitter.com/watery_desert)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/f9CC5sEK87)
+[![Patreon Badge](https://img.shields.io/badge/-Patreon-FF424D?style=for-the-badge&labelColor=FF424D&logo=patreon&logoColor=white)](https://www.patreon.com/watery_desert)
+[![BMC Badge](https://img.shields.io/badge/-BuyMeaCoffee-BD5FFF?style=for-the-badge&labelColor=BD5FFF&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/watery_desert)
 
 - Flutter: Q3 2018 - today. 
 - SwiftUI: Nov 21 2021 - today.
