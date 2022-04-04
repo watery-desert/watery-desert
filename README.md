@@ -10,6 +10,7 @@
 
 - Flutter: Q3 2018 - today. 
 - SwiftUI: Nov 21 2021 - today.
+- In love with UI design
 - Contact me for bussiness or work via [email](mailto:waterydesert.developer@gmail.com)
  
 
