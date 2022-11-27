@@ -4,10 +4,6 @@
   <p>My Website</p>
 </a>
 
-<a rel="me" href="https://mastodon.social/@watery_desert">
-  <p>Mastodon</p>
-</a>
-
 
 <!--
 **watery-desert/watery-desert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
